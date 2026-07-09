@@ -1,0 +1,23 @@
+[
+  {
+    "id": "firm-default",
+    "name": "Apex Enterprise Solutions",
+    "email": "admin@apex.com",
+    "mobile": "+91 98765 43210",
+    "plan": "enterprise",
+    "status": "active",
+    "isVerified": true,
+    "createdAt": "2026-07-07T16:08:23.993Z"
+  },
+  {
+    "id": "firm-2ycaxzv",
+    "name": "Test Firm",
+    "email": "test@example.com",
+    "mobile": "1234567890",
+    "plan": "free_trial",
+    "status": "pending_verification",
+    "isVerified": true,
+    "verificationToken": null,
+    "createdAt": "2026-07-07T16:24:46.095Z"
+  }
+]

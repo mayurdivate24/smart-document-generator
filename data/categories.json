@@ -1,0 +1,67 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Letters",
+    "description": "Standard official letters & communication",
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "cat-2",
+    "name": "Certificates",
+    "description": "Achievement, training, and completion awards",
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "cat-3",
+    "name": "HR Documents",
+    "description": "Offer letters, appointment, and policy undertakings",
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "cat-4",
+    "name": "Legal & Contracts",
+    "description": "Non-disclosure agreements, service level agreements",
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "cat-5",
+    "name": "Invoices & POs",
+    "description": "Billing statements and purchase orders",
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "cat-firm-2ycaxzv-d9h14",
+    "name": "Letters",
+    "description": "Standard official letters & communication",
+    "createdAt": "2026-07-07T16:24:46.096Z",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "cat-firm-2ycaxzv-reeal",
+    "name": "Certificates",
+    "description": "Achievement, training, and completion awards",
+    "createdAt": "2026-07-07T16:24:46.096Z",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "cat-firm-2ycaxzv-1lekt",
+    "name": "HR Documents",
+    "description": "Offer letters, appointment, and policy undertakings",
+    "createdAt": "2026-07-07T16:24:46.096Z",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "cat-firm-2ycaxzv-yb408",
+    "name": "Legal & Contracts",
+    "description": "Non-disclosure agreements, service level agreements",
+    "createdAt": "2026-07-07T16:24:46.096Z",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "cat-firm-2ycaxzv-8t3f2",
+    "name": "Invoices & POs",
+    "description": "Billing statements and purchase orders",
+    "createdAt": "2026-07-07T16:24:46.096Z",
+    "firmId": "firm-2ycaxzv"
+  }
+]

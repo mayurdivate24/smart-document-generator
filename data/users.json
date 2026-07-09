@@ -1,0 +1,32 @@
+[
+  {
+    "id": "user-admin",
+    "username": "mayurdivate24",
+    "name": "Mayur Divate",
+    "email": "admin@apex.com",
+    "role": "SuperAdmin",
+    "createdAt": "2026-07-07T14:06:56.437Z",
+    "passwordHash": "oMsairaM@4"
+  },
+  {
+    "id": "user-regular",
+    "username": "user",
+    "name": "John Smith (User)",
+    "email": "john@apex.com",
+    "role": "User",
+    "createdAt": "2026-07-07T14:06:56.437Z",
+    "passwordHash": "user123"
+  },
+  {
+    "id": "user-zcghw2a",
+    "username": "test@example.com",
+    "name": "Test User",
+    "email": "test@example.com",
+    "role": "Administrator",
+    "firmId": "firm-2ycaxzv",
+    "createdAt": "2026-07-07T16:24:46.095Z",
+    "passwordHash": "password123",
+    "isVerified": true,
+    "verificationToken": null
+  }
+]

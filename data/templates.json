@@ -1,0 +1,40 @@
+[
+  {
+    "id": "tpl-esa4kqa",
+    "name": "Test Template",
+    "description": "A test template",
+    "categoryId": "cat-firm-2ycaxzv-d9h14",
+    "filePath": "/app/applet/data/uploads/tpl-esa4kqa.docx",
+    "placeholders": [],
+    "createdAt": "2026-07-07T16:29:09.089Z",
+    "updatedAt": "2026-07-07T16:29:09.089Z",
+    "isArchived": false,
+    "brandingMode": "built-in",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "tpl-fmz77o9",
+    "name": "Test Template 2",
+    "description": "Another test template",
+    "categoryId": "cat-firm-2ycaxzv-d9h14",
+    "filePath": "/app/applet/data/uploads/tpl-fmz77o9.docx",
+    "placeholders": [],
+    "createdAt": "2026-07-07T16:31:47.022Z",
+    "updatedAt": "2026-07-07T16:31:47.022Z",
+    "isArchived": false,
+    "brandingMode": "built-in",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "tpl-hdt5kpt",
+    "name": "Test Admin Template",
+    "description": "Another test template",
+    "categoryId": "cat-firm-2ycaxzv-d9h14",
+    "filePath": "/app/applet/data/uploads/tpl-hdt5kpt.docx",
+    "placeholders": [],
+    "createdAt": "2026-07-07T16:37:32.024Z",
+    "updatedAt": "2026-07-07T16:37:32.024Z",
+    "isArchived": false,
+    "brandingMode": "built-in"
+  }
+]

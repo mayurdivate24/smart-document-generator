@@ -1,0 +1,38 @@
+[
+  {
+    "id": "prof-1",
+    "name": "Apex Corporate Profile",
+    "organizationName": "Apex Enterprise Solutions Ltd.",
+    "logo": "",
+    "address": "101, Business Tower, Bandra Kurla Complex, Mumbai - 400051, India",
+    "contactNumber": "+91 22 5555 1234",
+    "email": "contact@apex.com",
+    "website": "www.apexenterprise.com",
+    "gstNumber": "27AAAAA1111A1Z1",
+    "panNumber": "AAAAA1111A",
+    "footerText": "Apex Enterprise Solutions - Confidential and Proprietary Document",
+    "authorizedSignatory": "Jane Doe, Director of Operations",
+    "digitalSignature": "",
+    "headerDesign": "standard",
+    "footerDesign": "standard",
+    "letterheadBackground": "",
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "name": "Default Firm Profile",
+    "organizationName": "Test Firm",
+    "address": "101, Business Street, City, Country",
+    "contactNumber": "",
+    "email": "",
+    "website": "",
+    "gstNumber": "",
+    "panNumber": "",
+    "footerText": "Test Firm - Generated Document",
+    "authorizedSignatory": "Administrator",
+    "headerDesign": "standard",
+    "footerDesign": "standard",
+    "firmId": "firm-2ycaxzv",
+    "id": "prof-rue3kq1",
+    "createdAt": "2026-07-07T16:24:46.097Z"
+  }
+]

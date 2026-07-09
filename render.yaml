@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: docx-pdf-manager
+    env: docker
+    plan: starter
+    envVars:
+      - key: PORT
+        value: 3000
+      - key: NODE_ENV
+        value: production
+    # Persistent disk for storing templates, documents, and local database JSONs securely across restarts
+    disk:
+      name: app-data-disk
+      mountPath: /app/data
+      sizeGB: 1

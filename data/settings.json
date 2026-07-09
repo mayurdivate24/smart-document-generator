@@ -1,0 +1,40 @@
+[
+  {
+    "organizationName": "Apex Enterprise Solutions",
+    "address": "404, Tech Park, Phase-II, Sector-V, Pune - 411057, India",
+    "logo": "",
+    "digitalSignature": "",
+    "footer": "This is a computer-generated document. Confidentiality Guaranteed.",
+    "defaultMargins": {
+      "top": 1,
+      "bottom": 1,
+      "left": 1,
+      "right": 1
+    },
+    "defaultPaperSize": "A4",
+    "documentNumberPattern": "DOC-[YYYY]-000[COUNT]",
+    "timezone": "Asia/Kolkata (GMT+5:30)",
+    "language": "en",
+    "placeholderSyntax": "all",
+    "firmId": "firm-default"
+  },
+  {
+    "organizationName": "Test Firm",
+    "address": "404, Tech Park, Phase-II, Sector-V, Pune - 411057, India",
+    "logo": "",
+    "digitalSignature": "",
+    "footer": "This is a computer-generated document. Confidentiality Guaranteed.",
+    "defaultMargins": {
+      "top": 1,
+      "bottom": 1,
+      "left": 1,
+      "right": 1
+    },
+    "defaultPaperSize": "A4",
+    "documentNumberPattern": "DOC-[YYYY]-000[COUNT]",
+    "timezone": "Asia/Kolkata (GMT+5:30)",
+    "language": "en",
+    "placeholderSyntax": "all",
+    "firmId": "firm-2ycaxzv"
+  }
+]

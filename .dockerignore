@@ -1,0 +1,12 @@
+node_modules
+dist
+data/generated/*
+data/uploads/*
+.git
+.env
+.env.local
+*.log
+.cache
+Dockerfile
+.dockerignore
+render.yaml

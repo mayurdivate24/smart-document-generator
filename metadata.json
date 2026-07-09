@@ -1,0 +1,8 @@
+{
+  "name": "Smart Document Generator (SDG)",
+  "description": "An enterprise-grade document automation platform to parse Word (.docx) templates, dynamically generate forms, and produce pixel-perfect DOCX and PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

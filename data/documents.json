@@ -1,0 +1,51 @@
+[
+  {
+    "id": "doc-5j7uypc",
+    "documentNumber": "DOC-2026-0001",
+    "templateId": "tpl-s02ly8r",
+    "templateName": "SAMPLE LETTER",
+    "categoryId": "cat-1",
+    "categoryName": "Letters",
+    "generatedBy": {
+      "userId": "user-admin",
+      "name": "Mayur Divate",
+      "email": "admin@apex.com"
+    },
+    "createdAt": "2026-07-07T16:39:24.639Z",
+    "values": {
+      "date": "2026-07-06",
+      "client_name": "Mayur Divate",
+      "subject": "CL Application",
+      "plot_number": "P-875",
+      "city": "Nashik",
+      "mobile_number": "9960025682"
+    },
+    "docxPath": "/app/applet/data/generated/doc-5j7uypc.docx",
+    "htmlPath": ""
+  },
+  {
+    "id": "doc-1bne5ti",
+    "documentNumber": "DOC-2026-0002",
+    "templateId": "tpl-s02ly8r",
+    "templateName": "SAMPLE LETTER",
+    "categoryId": "cat-1",
+    "categoryName": "Letters",
+    "generatedBy": {
+      "userId": "user-admin",
+      "name": "Mayur Divate",
+      "email": "admin@apex.com"
+    },
+    "createdAt": "2026-07-07T16:42:46.568Z",
+    "values": {
+      "date": "2026-07-07",
+      "client_name": "John Doe",
+      "subject": "Fire Safety",
+      "plot_number": "123",
+      "city": "Mumbai",
+      "mobile_number": "9876543210"
+    },
+    "docxPath": "/app/applet/data/generated/doc-1bne5ti.docx",
+    "htmlPath": "",
+    "pdfPath": "/app/applet/data/generated/doc-1bne5ti.pdf"
+  }
+]

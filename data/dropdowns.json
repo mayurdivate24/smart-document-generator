@@ -1,0 +1,131 @@
+[
+  {
+    "id": "dd-1",
+    "name": "Designation",
+    "options": [
+      "Director",
+      "General Manager",
+      "Engineering Lead",
+      "Senior Developer",
+      "HR Specialist",
+      "Business Analyst"
+    ],
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "dd-2",
+    "name": "Department",
+    "options": [
+      "Engineering",
+      "Human Resources",
+      "Legal & Compliance",
+      "Finance & Accounts",
+      "Sales & Marketing"
+    ],
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "dd-3",
+    "name": "Indian States",
+    "options": [
+      "Maharashtra",
+      "Delhi",
+      "Karnataka",
+      "Tamil Nadu",
+      "Gujarat",
+      "Telangana"
+    ],
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "dd-4",
+    "name": "US States",
+    "options": [
+      "California",
+      "New York",
+      "Texas",
+      "Florida",
+      "Washington",
+      "Illinois"
+    ],
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "dd-5",
+    "name": "Project Type",
+    "options": [
+      "Fixed Bid",
+      "Time & Material",
+      "Retainer",
+      "Internal Research"
+    ],
+    "createdAt": "2026-07-07T14:06:56.437Z"
+  },
+  {
+    "id": "dd-firm-2ycaxzv-bwp2r",
+    "name": "Designation",
+    "options": [
+      "Director",
+      "General Manager",
+      "Engineering Lead",
+      "Senior Developer",
+      "HR Specialist",
+      "Business Analyst"
+    ],
+    "createdAt": "2026-07-07T16:24:46.097Z",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "dd-firm-2ycaxzv-tv25s",
+    "name": "Department",
+    "options": [
+      "Engineering",
+      "Human Resources",
+      "Legal & Compliance",
+      "Finance & Accounts",
+      "Sales & Marketing"
+    ],
+    "createdAt": "2026-07-07T16:24:46.097Z",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "dd-firm-2ycaxzv-q2dmp",
+    "name": "Indian States",
+    "options": [
+      "Maharashtra",
+      "Delhi",
+      "Karnataka",
+      "Tamil Nadu",
+      "Gujarat",
+      "Telangana"
+    ],
+    "createdAt": "2026-07-07T16:24:46.097Z",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "dd-firm-2ycaxzv-q5d2z",
+    "name": "US States",
+    "options": [
+      "California",
+      "New York",
+      "Texas",
+      "Florida",
+      "Washington",
+      "Illinois"
+    ],
+    "createdAt": "2026-07-07T16:24:46.097Z",
+    "firmId": "firm-2ycaxzv"
+  },
+  {
+    "id": "dd-firm-2ycaxzv-qrrdp",
+    "name": "Project Type",
+    "options": [
+      "Fixed Bid",
+      "Time & Material",
+      "Retainer",
+      "Internal Research"
+    ],
+    "createdAt": "2026-07-07T16:24:46.097Z",
+    "firmId": "firm-2ycaxzv"
+  }
+]
